@@ -7,6 +7,26 @@ Pull requests help you collaborate on code with other people. As pull requests a
 
 c. Describe the steps to open a pull request?
 Click on pull requests (upper right corner) 
+If you are in Visual Studio, complete your work and save
+Select “Source Control” icon from left side panel
+Click on the “+” next to your file
+Add an update in the “message” line (such as added new info to README.md)
+Sync changes to git hub
+Press “Commit”
+Press “Sync”
+Go to Git Hub on browser
+Select “Pull Requests” from menu at top of page
+Select “New Pull Requests” green button in upper right 
+Change base repository on left hand side to your own repository
+Change the right-hand side to your assignment branch
+You now see the changes you made on VS
+Review the changes 
+Select “Pull Request”
+Fill in the Pull Request form
+Select “Create Pull Request”
+Review the Pull Request and ensure everything is accurate.
+Select “Create Pull Request”
+Open the Pull Request in a separate window to view the information and confirm it is accessible
 
 
 d. Describe the steps to add a collaborator to a repository (share write permissions)
