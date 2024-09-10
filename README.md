@@ -6,7 +6,7 @@ b. What is a pull request?
 Pull requests help you collaborate on code with other people. As pull requests are created, they’ll appear here in a searchable and filterable list
 
 c. Describe the steps to open a pull request?
-Click on pull requests (upper right corner) 
+
 If you are in Visual Studio, complete your work and save
 Select “Source Control” icon from left side panel
 Click on the “+” next to your file
